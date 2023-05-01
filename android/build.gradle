@@ -49,5 +49,5 @@ dependencies {
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation "androidx.biometric:biometric:$biometric_version"
-    implementation "io.github.microutils:kotlin-logging:1.7.6"
+    implementation 'io.github.microutils:kotlin-logging-jvm:3.0.5'
 }
